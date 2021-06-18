@@ -1,4 +1,4 @@
-package com.translate;
+package java.com.translate;
 
 import java.io.File;
 import java.io.FileNotFoundException;
