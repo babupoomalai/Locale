@@ -1,11 +1,21 @@
 package java.com.translate;
 
 import java.io.File;
+
+
 import java.io.FileNotFoundException;
 import java.util.Locale;
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;
 import java.util.Scanner;
+
+/**
+ * 
+ * @author bpoomalai
+ * 
+ * The file parses input.txt and convert the text to English. If translation not found, it will print the same word
+ *
+ */
 
 public class Application {
 
